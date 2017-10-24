@@ -4,7 +4,7 @@
 • Algorithms implemented were K- Nearest Neighbors, Memory Based User and Item based collaborative filtering. 
 
 
-• The paper in the project url describes the formulas used for similarity scoring and precision measurement.
+• The Report.pdf file describes the formulas used for similarity scoring and precision measurement.
 
 
 • Data set used: Last.fm dataset 
